@@ -10,5 +10,6 @@ class Ejercicio04
 {
 public:
 	vector<string> generateParenthesis(int n);
+	void Verificacion(std::vector<std::string>& result, std::string current, int Incio, int Finall);
 };
 
