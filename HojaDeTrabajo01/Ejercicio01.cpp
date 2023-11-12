@@ -3,5 +3,5 @@
 
 int Ejercicio01::sum(int a, int b) 
 {
-	return a;
+	return a+b;
 }
